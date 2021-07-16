@@ -83,7 +83,7 @@ a {
   margin: 0 auto;
 }
 
-#features {
+#featuers {
   margin-top: 30px;
 }
 
@@ -91,7 +91,7 @@ a {
   display: flex;
 }
 
-#features .icon {
+#featuers .icon {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -106,7 +106,7 @@ a {
   font-size: 3em;
 }
 
-#features .desc {
+#featuers .desc {
   display: flex;
   flex-direction: column;
   justify-content: center;
